@@ -101,3 +101,4 @@ botao=tk.Button(root,
 botao.pack()
 
 root.mainloop()
+ 
