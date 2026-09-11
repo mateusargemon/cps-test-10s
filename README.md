@@ -32,4 +32,4 @@ python main.py
 ## Technologies
 
 - Python
-- Tkinter
+- Tkinter 
